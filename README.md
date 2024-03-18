@@ -1,0 +1,1 @@
+This is a movie recommender system where we have a dataset which contains a list of hollywood movies and recommend 5 movies for each movie.I have implemented this project in python using jupyter notebook.I have implemented vectorization using scikit-learn techniques in this project.Also i have designed an end to end system for this project using Pycharm by streamlit.  
